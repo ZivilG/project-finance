@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<settings>
+    <menuItem_0 id="1" visible="true" name="mnu1" text="Parodyti ivestus duomenis;">
+            <menuItem_1 id="11" visible="true" name="mnu11" text="Pajamu/islaidu ataskaita pasirinktam laikotarpiui;"/>
+            <menuItem_1 id="12" visible="true" name="mnu12" text="Balansas;"/>
+            <menuItem_1 id="13" visible="true" name="mnu13" text="Pajamu arba islaidu israsai datos intervale;"/>
+            <menuItem_1 id="14" visible="true" name="mnu14" text="Didziausios/maziausios pajamos/islaidos;"/>
+            <menuItem_1 id="15" visible="true" name="mnu15" text="Grizti i pagrindini meniu;"/>
+    </menuItem_0>
+    <menuItem_0 id="2" visible="true" name="mnu2" text="Ivesti naujus duomenis;">
+            <menuItem_1 id="21" visible="true" name="mnu21" text="Ivesti pajamas">
+                <menuItem_2 id="211" visible="true" name="mnu211" text="Ivesti atlyginima"/>
+                <menuItem_2 id="212" visible="true" name="mnu212" text="Ivesti kitas pajamas"/>
+                <menuItem_2 id="213" visible="true" name="mnu213" text="Grizti i pagrindini meniu;"/>
+            </menuItem_1>
+            <menuItem_1 id="22" visible="true" name="mnu22" text="Ivesti islaidas">
+                <menuItem_2 id="221" visible="true" name="mnu221" text="Ivesti busto islaidas"/>
+                <menuItem_2 id="222" visible="true" name="mnu222" text="Ivesti islaidas automobiliui"/>
+                <menuItem_2 id="223" visible="true" name="mnu223" text="Ivesti islaidas maistui"/>
+                <menuItem_2 id="224" visible="true" name="mnu224" text="Ivesti kitas islaidas"/>
+                <menuItem_2 id="225" visible="true" name="mnu225" text="Grizti i pagrindini meniu;"/>
+            </menuItem_1>
+            <menuItem_1 id="23" visible="true" name="mnu23" text="Grizti i pagrindini meniu;"/>
+    </menuItem_0>
+    <menuItem_0 id="3" visible="true" name="mnu3" text="Iseiti is programos;"/>
+</settings>
